@@ -12,3 +12,6 @@ A quick overview of what the notebook has included is:
 4. Feature Engineering
 5. Splitting the data
 6. Making predictions
+
+
+- Fiona
