@@ -13,5 +13,4 @@ A quick overview of what the notebook has included is:
 5. Splitting the data
 6. Making predictions
 
-
-- Fiona
+What I found important to have in this project was the feature engineering and also using XGBoost instead of Random Forest.
