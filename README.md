@@ -1,6 +1,6 @@
 # **Top 12% Solution**
  
- # House Prices - Advanced Regression Techniques
+ House Prices - Advanced Regression Techniques
 
 # The goal of this project:
 Is to predict the sales price of each house from a neighborhood in Ames, Iowa.
