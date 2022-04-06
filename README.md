@@ -1,19 +1,19 @@
-# House-Prices
-House Prices - Advanced Regression Techniques
+# **Top 12% Solution**
+ 
+ # House Prices - Advanced Regression Techniques
 
+The goal of this project: Is to predict the sales price of each house from a neighborhood in Ames, Iowa.
 
-The attached notebook will go over the final submission for the Kaggle competition that allowed me to reach the top score of 12% at the time of submission.
+Why would a company benefit from this project and will there be a next step to this project:
+1.  A company such as Zillow or any real estate company would benefit from this by being able to see how prices for each house are predicted. 
+2. If needed the companies can ask to add more onto this dataset to try and predict other type of homes in a different area or even try to calculate monthly rental prices.
 
-# A quick overview of what the notebook has included:
+How to find the best tree model: I used XGBOOSTRegressor because it has highly efficient implementation.
 
-1. Reading the data
-2. Data Visualization 
-3. Data Cleaning
-4. Feature Engineering
-5. Splitting the data
-6. Making predictions
+Why did I use this parameters: I used learning_rate to prevent any over fitting of the data.
 
-# What I found important to have in this project:
- 1. Feature engineering.
- 2. Using XGBoost instead of Random Forest.
- 3. The parameters used in the XGBoost Regression are important to take note of.
+How would I implement this algorithm: After going through and prepping the data such as removing and modify the nulls, adding a few features, and predicting the final model with XGBoost.
+
+My results: After predicting the model the final mean squared error value that was predicted is 199500 per house.
+
+Why is this Regression: This is a Regression project because we are predicting the house prices which are continuous. 
